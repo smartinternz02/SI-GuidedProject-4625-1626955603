@@ -14,7 +14,7 @@ In this project,we have created a webpage which detect the species of animals, b
 
 
 ## Link to Dataset
-[News Dataset]()
+[News Dataset](https://drive.google.com/drive/folders/1sMsSjhTHwagvqweq7-hv1zvBd2VSSdlP?usp=sharing)
 
 
 ## Link to Video Demonstration
